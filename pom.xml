@@ -16,7 +16,7 @@
     </properties>
 
     <name>json-jackson</name>
-    <description>Jackson module for dev.mccue/json.</description>
+    <description>Jackson module for dev.mccue/json</description>
     <url>https://github.com/bowbahdoe/json-jackson</url>
 
     <developers>
